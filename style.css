@@ -1,0 +1,37 @@
+body {
+    font-family: 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+head {
+    margin: 0;
+    padding: 0;
+}
+
+.intro {
+    background-color: #e4e9ec;
+    overflow: hidden;
+    margin: 0;
+}
+
+.heading {
+    font-size: 25px;
+    color: rgb(69, 5, 69);
+    margin-left: 10px;
+}
+
+.prof{
+
+    margin-left: 10px;
+    font-size: large;
+}
+
+.photo{
+    margin-left: 10px;
+}
+
+.container, .repository, .form,.contact{
+    margin-left:10px;
+}
+
